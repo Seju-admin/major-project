@@ -11,3 +11,4 @@ __pycache__/
 
 # System files
 .DS_Store
+solar_rf_model.pkl
